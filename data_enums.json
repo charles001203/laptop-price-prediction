@@ -1,0 +1,99 @@
+{
+    "ScreenResolution": [
+        "2560X1600",
+        "1440X900",
+        "1920X1080",
+        "2880X1800",
+        "1366X768",
+        "2304X1440",
+        "3200X1800",
+        "1920X1200",
+        "2256X1504",
+        "3840X2160",
+        "2160X1440",
+        "2560X1440",
+        "1600X900",
+        "2736X1824",
+        "2400X1600"
+    ],
+    "Inches": 15.02,
+    "Company": [
+        "Apple",
+        "HP",
+        "Acer",
+        "Asus",
+        "Dell",
+        "Lenovo",
+        "Chuwi",
+        "MSI",
+        "Microsoft",
+        "Toshiba",
+        "Huawei",
+        "Xiaomi",
+        "Vero",
+        "Razer",
+        "Mediacom",
+        "Samsung",
+        "Google",
+        "Fujitsu",
+        "LG"
+    ],
+    "TypeName": [
+        "Ultrabook",
+        "Notebook",
+        "Netbook",
+        "Gaming",
+        "2 in 1 Convertible",
+        "Workstation"
+    ],
+    "Ram": [
+        "1",
+        "2",
+        "0",
+        "3",
+        "4"
+    ],
+    "OpSys": [
+        "Mac",
+        "Other",
+        "Windows"
+    ],
+    "CPU_name": [
+        "Intel Core i5",
+        "Intel Core i7",
+        "AMD",
+        "Intel Core i3",
+        "Intel Other",
+        "Other"
+    ],
+    "SSD": [
+        "128",
+        "0",
+        "256",
+        "512",
+        "32",
+        "64",
+        "1000",
+        "1024",
+        "16",
+        "768",
+        "180",
+        "240",
+        "8"
+    ],
+    "HDD": [
+        "0",
+        "500",
+        "1000",
+        "2000",
+        "32",
+        "128"
+    ],
+    "Gpu brand": [
+        "Intel",
+        "AMD",
+        "Nvidia",
+        "ARM"
+    ],
+    "Weight": 2.04
+}
